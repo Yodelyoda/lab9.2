@@ -1,0 +1,7 @@
+﻿  lab9.2.cpp
+C:\Users\Yoda\source\repos\lab9.2\lab9.2.cpp(115): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yoda\source\repos\lab9.2\lab9.2.cpp(122): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yoda\source\repos\lab9.2\lab9.2.cpp(129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yoda\source\repos\lab9.2\lab9.2.cpp(136): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yoda\source\repos\lab9.2\lab9.2.cpp(143): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab9.2.vcxproj -> C:\Users\Yoda\source\repos\lab9.2\Debug\lab9.2.exe
